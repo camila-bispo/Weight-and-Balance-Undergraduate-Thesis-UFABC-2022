@@ -6,4 +6,6 @@ Aplicação do trabalho de graduação apresentado ao   Centro de Engenharia, Mo
 **Autora**: Camila Bispo dos Santos
 
 Aqui você irá encontrar o código para ser executado no Jupyter e o arquivo com a base de dados utilizada no trabalho.
+Baixe os arquivos e os salve no mesmo diretório para executar o código com sucesso. Nenhuma ação precisa ser feita no arquivo base_dados_tg.xlsx. 
 
+Divirta-se!
